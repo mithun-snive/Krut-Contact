@@ -64,7 +64,7 @@ function Main() {
                         </h1>
 
                         <p className=" text-4xl font-bold mt-4 text-center sm:text-left text-white">
-                            21st April 2024
+                            {/* 21st April 2024 */}
                         </p>
 
                         {/* social media */}
