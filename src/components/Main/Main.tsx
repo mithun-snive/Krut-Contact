@@ -29,7 +29,7 @@ function Main() {
             companyName,
             hearAboutUs
         });
-        console.log("2",response)//test
+        console.log("2", response)//test
 
         if (response) {
             // contact API call here
@@ -49,7 +49,7 @@ function Main() {
                 <section id="banner" className="w-full flex flex-col justify-between sm:flex-row p-6 gap-10 pb-12">
                     <div className="sm:w-[50%] px-10">
                         <h1 className="text-4xl text-center sm:text-5xl lg:text-6xl sm:text-left text-white">
-                            Introducing The <span className="font-bold text-krutNeon">Krut AI</span>
+                            Introducing The <span className="font-bold text-krutNeon">Krut<span className="text-transparent text-sm">_</span>AI</span>
                         </h1>
                         <p className=" text-xl mt-4 text-center sm:text-left text-white font-light">
                             We supercharge creators of all levels with an AI powered creative suite tailored for them.
@@ -160,7 +160,7 @@ function Main() {
                                         </button>
                                     </div>
                                 </form>
-                               
+
                             </div>
                         </div>
                     </div>
