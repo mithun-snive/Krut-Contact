@@ -70,15 +70,15 @@ function Main() {
                         {/* social media */}
                         <div className="flex mt-10 justify-center sm:justify-start">
                             <div className="flex space-x-5">
-                                <a href="https://discord.com/invite/BmaRqVPD" target="_blank">
+                                <a href="https://discord.gg/MpTy5X5n" target="_blank">
                                     <img className='h-8' src="/icons/discord.png" alt="discord" />
                                 </a>
                                 <a href="https://www.linkedin.com/company/krut-ai/" target="_blank">
                                     <img className='h-8' src="/icons/linkedIn.png" alt="linkedIn" />
                                 </a>
-                                {/* <a href="http://instagram.com" target="_blank">
+                                <a href="https://www.instagram.com/_krut.ai/" target="_blank">
                                     <img className='h-8' src="/icons/instagram.png" alt="instagram" />
-                                </a> */}
+                                </a>
                                 <a href="https://x.com/krutAI_?t=jXEsIN-SWtldK_oak7WyZQ&s=09" target="_blank">
                                     <img className='h-8' src="/icons/x.png" alt="x" />
                                 </a>
@@ -160,21 +160,7 @@ function Main() {
                                         </button>
                                     </div>
                                 </form>
-                                <div className="social-media-icons-mb d-flex col-lg-1 mt-5 gap-3  ">
-                                    <a href="https://discord.com/invite/BmaRqVPD">
-                                        {" "}
-                                        {/* <FaDiscord className="icon hide-on-lg" />{" "} */}
-                                    </a>
-                                    <a href="https://x.com/krutAI_?t=jXEsIN-SWtldK_oak7WyZQ&s=09">
-                                        {" "}
-                                        {/* <FaXTwitter className="icon hide-on-lg" />{" "} */}
-                                    </a>
-                                    <a href="https://www.linkedin.com/company/krut-ai/">
-                                        {" "}
-                                        {/* <FaLinkedin className="icon hide-on-lg" />{" "} */}
-                                    </a>
-
-                                </div>
+                               
                             </div>
                         </div>
                     </div>
